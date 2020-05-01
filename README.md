@@ -3,6 +3,7 @@ A Python Library to parse MUD area files
 
 This project reads area files from old MUDs and presents them as Python objects.
 The returned objects all use the [Attrs](https://pypi.python.org/pypi/attrs) package so it is very easy to do stuff like render out the entire tree of objects as JSON or similar.
+
 ## Example Usage (within Evennia):
 ```
 !
@@ -12,17 +13,19 @@ x.load("D:/mud-areas/midgaard.are")
 x.load("D:/mud-areas/newthalos.are")
 x.load('D:/mud-areas/moria.are")
 x.spawnRooms()
+x.enumerateObjectLocations()
 x.spawnObjects()
 
 ```
+The above will load the ROM area files, and display info about the first room of each area, and any exits that don't link up.
 
-## Example Usage (origina)
-```python
+Some old area files don't work. I think it may have to do with the original area_reader and handling of ROM area reset commands.
+ 
+I've tested a bunch from https://github.com/vedicveko/Mud-Areas and a list of working ones is available [here](working_areas.md). 
 
->>> import area_reader
->>> area_file = area_reader.RomAreaFile('midgaard.are')
->>> area_file.load_area()
->>> area_file.area
-RomArea(name='Midgaard', metadata='{ All } Diku    Midgaard', original_filename='midgaard.are', first_vnum=3000, last_vnum=3399, ... )
+Make sure you create or redefine `typeclasses.exits.LegacyExit`, `typeclasses.objects.LegacyObject` and `typeclasses.objects.LegacyRoom` in the code.
+These are used as bases for objects that the importer created.
 
-```
+Areas are tagged and given an attribute 'area' with the area name, to make DB maintenance easier.
+
+ 
