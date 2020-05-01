@@ -2,134 +2,134 @@ Areas from https://github.com/vedicveko/Mud-Areas that parse cleanly:
 
 Area File | Area Name | Rooms
 ---|---|---
-/mud-areas/under2.are | 			Unknown | 490
-/mud-areas/calinth.are | 			Unknown | 332
-/mud-areas/newthalos.are | 			New | 257
-/mud-areas/hitower.are | 			High | 183
-/mud-areas/sewer.are | 			Sewers | 177
-/mud-areas/gerighelm.are | 			Great | 173
-/mud-areas/white.are | 			White | 173
-/mud-areas/mirror2.are | 			Mirror | 170
-/mud-areas/Fragrant.are | 			Fragrant | 170
-/mud-areas/erealms.are | 			Unknown | 168
-/mud-areas/volcano.are | 			Unknown | 162
-/mud-areas/pawmist.are | 			Pawmist | 157
-/mud-areas/midgaard.are | 			Midgaard | 143
-/mud-areas/tohell.are | 			Hell | 141
-/mud-areas/divsouls.are | 			Divided | 141
-/mud-areas/titan.are | 			Valley | 125
-/mud-areas/moria.are | 			Moria | 121
-/mud-areas/tcwnn2.are | 			The | 120
-/mud-areas/newtown.are | 			Unknown | 116
-/mud-areas/edearth.are | 			Unknown | 101
-/mud-areas/sdearth.are | 			Unknown | 101
-/mud-areas/2dearth.are | 			DearthWood | 101
-/mud-areas/haven2.are | 			Haven | 100
-/mud-areas/Shadval150.are | 			Shadow | 100
-/mud-areas/animal.are | 			Animaland | 100
-/mud-areas/wdearth.are | 			Unknown | 100
-/mud-areas/steab.are | 			Unknown | 100
-/mud-areas/ofcol2.are | 			New | 100
-/mud-areas/avalonch.are | 			Unknown | 100
-/mud-areas/Shadval45.are | 			Unknown | 100
-/mud-areas/enchice.are | 			Unknown | 100
-/mud-areas/mahntor.are | 			Mahn | 100
-/mud-areas/gtown.are | 			Ghost | 100
-/mud-areas/firetop.are | 			Firetop | 100
-/mud-areas/nation.are | 			Goblin | 99
-/mud-areas/dark2.are | 			Dark | 99
-/mud-areas/anonplis.are | 			Anonopolis | 99
-/mud-areas/leprach.are | 			Unknown | 98
-/mud-areas/dock.are | 			Unknown | 90
-/mud-areas/abyss2.are | 			the | 89
-/mud-areas/dylan.are | 			Dylan's | 88
-/mud-areas/mirror.are | 			Old | 86
-/mud-areas/island.are | 			Unknown | 85
-/mud-areas/valley.are | 			Valley | 84
-/mud-areas/thalos.are | 			Thalos | 81
-/mud-areas/astral.are | 			Astral | 80
-/mud-areas/dara.are | 			Darathorn's | 79
-/mud-areas/Caverns.are | 			Caverns | 76
-/mud-areas/talonvle.are | 			Unknown | 72
-/mud-areas/haon.are | 			Haon | 71
-/mud-areas/donjon.are | 			The | 70
-/mud-areas/chaos.are | 			chaos | 70
-/mud-areas/hood.are | 			Gangland | 70
-/mud-areas/mirkwood.are | 			Mirkwood | 70
-/mud-areas/catacomb.are | 			Catacombs | 69
-/mud-areas/chapel.are | 			Chapel | 67
-/mud-areas/chess2.are | 			Chessboard | 67
-/mud-areas/chessbrd.are | 			Unknown | 66
-/mud-areas/camelot1.are | 			Unknown | 62
-/mud-areas/sesamest.are | 			Sesame | 61
-/mud-areas/wyvern.are | 			Wyvern's | 61
-/mud-areas/pyramid.are | 			Pyramid | 60
-/mud-areas/enfan.are | 			Ershteep | 60
-/mud-areas/nirvana.are | 			Nirvana | 60
-/mud-areas/Mudschoo.are | 			mud | 59
-/mud-areas/school.are | 			mud | 59
-/mud-areas/shire.are | 			Shire | 58
-/mud-areas/arachnos.are | 			Arachnos | 56
-/mud-areas/canyon.are | 			Elemental | 55
-/mud-areas/weaverei.are | 			Unknown | 54
-/mud-areas/dawn.are | 			Unknown | 54
-/mud-areas/king.are | 			King's | 54
-/mud-areas/bazaar.are | 			The | 53
-/mud-areas/midennir.are | 			Miden'nir | 52
-/mud-areas/heaven.are | 			Unknown | 51
-/mud-areas/tisland.are | 			Unknown | 51
-/mud-areas/drow.are | 			Drow | 51
-/mud-areas/warzone.are | 			Unknown | 51
-/mud-areas/atlantis.are | 			Atlantis | 51
-/mud-areas/dwarven.are | 			Dwarven | 51
-/mud-areas/gillign2.are | 			Gilligan's | 51
-/mud-areas/amazon.are | 			Unknown | 51
-/mud-areas/olympus.are | 			Olympus | 50
-/mud-areas/Kandahar-Olympus.are | 			Olympus | 50
-/mud-areas/riverd.are | 			River | 49
-/mud-areas/circus.are | 			The | 49
-/mud-areas/eastern.are | 			Sands | 47
-/mud-areas/takshrin.are | 			Unknown | 46
-/mud-areas/pblood.are | 			The | 45
-/mud-areas/draconia.are | 			Dragon | 44
-/mud-areas/plains.are | 			Plains | 44
-/mud-areas/warkeep.are | 			The | 43
-/mud-areas/partbody.are | 			Unknown | 43
-/mud-areas/newbie2.are | 			newbie | 41
-/mud-areas/air.are | 			In | 40
-/mud-areas/shaolin.are | 			Shaolin | 37
-/mud-areas/dream.are | 			Machine | 36
-/mud-areas/Tournam.are | 			Tournament | 34
-/mud-areas/north.are | 			Unknown | 34
-/mud-areas/drmscp.are | 			Unknown | 34
-/mud-areas/haven.are | 			Little | 33
-/mud-areas/river.are | 			Unknown | 33
-/mud-areas/zoo2.are | 			Zoo | 30
-/mud-areas/weed.are | 			Cannabis | 30
-/mud-areas/smurf.are | 			Smurfville | 29
-/mud-areas/mega1.are | 			Mega | 28
-/mud-areas/Darkness.are | 			Unknown | 28
-/mud-areas/gstrong.are | 			Unknown | 27
-/mud-areas/bladance.are | 			Blade | 26
-/mud-areas/mobfact.are | 			Mob | 25
-/mud-areas/Gambling.are | 			Gambling | 25
-/mud-areas/east.are | 			Unknown | 25
-/mud-areas/kang.are | 			Unknown | 24
-/mud-areas/tree.are | 			tree | 24
-/mud-areas/funhouse.are | 			Fun | 24
-/mud-areas/grove.are | 			Holy | 22
-/mud-areas/immort.are | 			Valhalla | 22
-/mud-areas/WATER.are | 			Unknown | 21
-/mud-areas/bfield.are | 			Arena | 21
-/mud-areas/daycare.are | 			Day | 19
-/mud-areas/marsh.are | 			Marsh | 18
-/mud-areas/path.are | 			Unknown | 15
-/mud-areas/shield.are | 			The | 14
-/mud-areas/zoology.are | 			zoology | 14
-/mud-areas/ofcol.are | 			Ofcol | 8
-/mud-areas/quifael.are | 			Quifael's | 6
-/mud-areas/trollden.are | 			Troll | 5
-/mud-areas/demise.are | 			Unknown | 3
-/mud-areas/limbo.are | 			Limbo | 2
-/mud-areas/keep.are | 			Unknown | 0
+under2.are |  Unknown     |    490
+calinth.are |  Unknown     |    332
+newthalos.are |  New Thalos     |    257
+hitower.are |  High Tower     |    183
+sewer.are |  Sewers     |    177
+gerighelm.are |  Great Town of Gerighelm     |    173
+white.are |  White Lotus     |    173
+mirror2.are |  Mirror Realm     |    170
+Fragrant.are |  Fragrant Harbour     |    170
+erealms.are |  Unknown     |    168
+volcano.are |  Unknown     |    162
+pawmist.are |  Pawmist     |    157
+midgaard.are |  Midgaard     |    143
+tohell.are |  Hell     |    141
+divsouls.are |  Divided Souls     |    141
+titan.are |  Valley of the Titans     |    125
+moria.are |  Moria     |    121
+tcwnn2.are |  The Walls of the City of Anon     |    120
+newtown.are |  Unknown     |    116
+edearth.are |  Unknown     |    101
+sdearth.are |  Unknown     |    101
+2dearth.are |  DearthWood     |    101
+haven2.are |  Haven Lake     |    100
+Shadval150.are |  Shadow Valley     |    100
+animal.are |  Animaland     |    100
+wdearth.are |  Unknown     |    100
+steab.are |  Unknown     |    100
+ofcol2.are |  New Ofcol     |    100
+avalonch.are |  Unknown     |    100
+Shadval45.are |  Unknown     |    100
+enchice.are |  Unknown     |    100
+mahntor.are |    Mahn-Tor  100
+gtown.are |  Ghost Town     |    100
+firetop.are |  Firetop Mountain     |    100
+nation.are |  Goblin Nation     |    99
+dark2.are |  Dark Continent     |    99
+anonplis.are |  Anonopolis     |    99
+leprach.are |  Unknown     |    98
+dock.are |  Unknown     |    90
+abyss2.are |  the Abyss     |    89
+dylan.are |  Dylan's Area     |    88
+mirror.are |  Old Thalos     |    86
+island.are |  Unknown     |    85
+valley.are |  Valley of the Elves     |    84
+thalos.are |  Thalos     |    81
+astral.are |  Astral Plane     |    80
+dara.are |  Darathorn's Pit     |    79
+Caverns.are |  Caverns Through Time     |    76
+talonvle.are |  Unknown     |    72
+haon.are |  Haon Dor     |    71
+donjon.are |  The Dungeon     |    70
+chaos.are |    chaos-rift  70
+hood.are |  Gangland     |    70
+mirkwood.are |  Mirkwood     |    70
+catacomb.are |  Catacombs     |    69
+chapel.are |  Chapel     |    67
+chess2.are |  Chessboard of Midgaard     |    67
+chessbrd.are |  Unknown     |    66
+camelot1.are |  Unknown     |    62
+sesamest.are |  Sesame Street     |    61
+wyvern.are |  Wyvern's Tower     |    61
+pyramid.are |  Pyramid     |    60
+enfan.are |  Ershteep City     |    60
+nirvana.are |  Nirvana     |    60
+Mudschoo.are |  mud school     |    59
+school.are |  mud school     |    59
+shire.are |  Shire     |    58
+arachnos.are |  Arachnos     |    56
+canyon.are |  Elemental Canyon     |    55
+weaverei.are |  Unknown     |    54
+dawn.are |  Unknown     |    54
+king.are |  King's Castle     |    54
+bazaar.are |  The Bazaar     |    53
+midennir.are |  Miden'nir     |    52
+heaven.are |  Unknown     |    51
+tisland.are |  Unknown     |    51
+drow.are |  Drow City     |    51
+warzone.are |  Unknown     |    51
+atlantis.are |  Atlantis     |    51
+dwarven.are |  Dwarven Kingdom     |    51
+gillign2.are |  Gilligan's Island     |    51
+amazon.are |  Unknown     |    51
+olympus.are |  Olympus     |    50
+Kandahar-Olympus.are |  Olympus     |    50
+riverd.are |  River of Despair     |    49
+circus.are |  The Circus     |    49
+eastern.are |  Sands of Sorrow     |    47
+takshrin.are |  Unknown     |    46
+pblood.are |  The Plains of Blood     |    45
+draconia.are |  Dragon Tower     |    44
+plains.are |  Plains     |    44
+warkeep.are |  The Keep of the Warlock     |    43
+partbody.are |  Unknown     |    43
+newbie2.are |  newbie   |    2.are |   41
+air.are |  In the Air     |    40
+shaolin.are |  Shaolin Temple     |    37
+dream.are |  Machine Dreams     |    36
+Tournam.are |  Tournament Ground     |    34
+north.are |  Unknown     |    34
+drmscp.are |  Unknown     |    34
+haven.are |  Little Haven     |    33
+river.are |  Unknown     |    33
+zoo2.are |  Zoo of Midgaard     |    30
+weed.are |  Cannabis     |    30
+smurf.are |  Smurfville     |    29
+mega1.are |  Mega City One     |    28
+Darkness.are |  Unknown     |    28
+gstrong.are |  Unknown     |    27
+bladance.are |  Blade Dancers Inn     |    26
+mobfact.are |  Mob Factory     |    25
+Gambling.are |  Gambling Hall     |    25
+east.are |  Unknown     |    25
+kang.are |  Unknown     |    24
+tree.are |    tree.are |   24
+funhouse.are |  Fun House     |    24
+grove.are |  Holy Grove     |    22
+immort.are |  Valhalla     |    22
+WATER.are |  Unknown     |    21
+bfield.are |  Arena     |    21
+daycare.are |  Day Care     |    19
+marsh.are |  Marsh     |    18
+path.are |  Unknown     |    15
+shield.are |  The Shielding     |    14
+zoology.are |  zoology     |    14
+ofcol.are |  Ofcol     |    8
+quifael.are |  Quifael's     |    6
+trollden.are |  Troll Den     |    5
+demise.are |  Unknown     |    3
+limbo.are |  Limbo     |    2
+keep.are |  Unknown     |    0
 ```
