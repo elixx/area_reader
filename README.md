@@ -1,8 +1,10 @@
 # Area Reader
 A Python Library to parse MUD area files and create objects in Evennia
 
-This project reads area files from old MUDs and presents them as Python objects.
+This project originally reads area files from old MUDs and presents them as Python objects.
 The returned objects all use the [Attrs](https://pypi.python.org/pypi/attrs) package so it is very easy to do stuff like render out the entire tree of objects as JSON or similar.
+
+There are a number of improvements possible: https://github.com/elixx/area_reader/wiki/TODO
 
 ## Example Usage (within Evennia):
 ```
