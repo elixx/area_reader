@@ -3,7 +3,20 @@ A Python Library to parse MUD area files
 
 This project reads area files from old MUDs and presents them as Python objects.
 The returned objects all use the [Attrs](https://pypi.python.org/pypi/attrs) package so it is very easy to do stuff like render out the entire tree of objects as JSON or similar.
-## Example Usage
+## Example Usage (within Evennia):
+```
+!
+from area_reader.evennia_import import AreaImporter
+x = AreaImporter()
+x.load("D:/mud-areas/midgaard.are")
+x.load("D:/mud-areas/newthalos.are")
+x.load('D:/mud-areas/moria.are")
+x.spawnRooms()
+x.spawnObjects()
+
+```
+
+## Example Usage (origina)
 ```python
 
 >>> import area_reader
